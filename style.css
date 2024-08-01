@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(113, 149, 167);
+}
+
+h1{
+    text-align: center;
+}
+
+.TNT{
+    display: flex;
+    justify-content: center;
+}
+
+.BdH{
+    flex: 2;
+    padding: 50px;
+}
+
+.BN{
+    width: 29%;
+}
+
+.BaL{
+    width: 30%;
+    padding: 50px;
+}
+
+.Trocano{
+    width: 30%;
+}
+
+.Cluster{
+    width: 30%;
+}
+
+.container {
+    display: flex;
+   
+}
+
+.texto {
+    flex: 1;
+    text-align: left; 
+    font-size: 30px;
+}
